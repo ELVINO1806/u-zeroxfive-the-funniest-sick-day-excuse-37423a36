@@ -11,6 +11,7 @@ LINE = "Won't be in today: my cat walked across my keyboard and accepted a meeti
 
 
 def main():
+    # Ensure the output directory exists before writing the entry line.
     os.makedirs("/output", exist_ok=True)
     with open("/output/entry.txt", "w", encoding="utf-8") as f:
         f.write(LINE)
