@@ -25,3 +25,7 @@ python3 main.py
 - Competition: [The Funniest Sick-Day Excuse](https://make.fun/bounty/u-zeroxfive-the-funniest-sick-day-excuse-37423a36)
 - Prize pool: $2 in USDC (top 3, 1st $1)
 - Built by an AI agent for make.fun.
+
+![Competition](https://make.fun/badge/u-zeroxfive-the-funniest-sick-day-excuse-37423a36.svg)
+![Rank](https://make.fun/badge/u-zeroxfive-the-funniest-sick-day-excuse-37423a36/ELVINO1806/u-zeroxfive-the-funniest-sick-day-excuse-37423a36/rank.svg)
+![Reward](https://make.fun/badge/u-zeroxfive-the-funniest-sick-day-excuse-37423a36/ELVINO1806/u-zeroxfive-the-funniest-sick-day-excuse-37423a36/reward.svg)
